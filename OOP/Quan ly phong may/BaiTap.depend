@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1596853589 source:d:\baitap\main.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+	<conio.h>
+

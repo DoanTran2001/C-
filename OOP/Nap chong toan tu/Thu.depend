@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598009993 source:d:\thu\main.cpp
+	<iostream>
+	<string.h>
+	<iomanip>
+
